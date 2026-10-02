@@ -9,5 +9,6 @@
     <ul>
         <li><a href="/index.jsp">Inicio</a></li>
         <li><a href="/user">Usuario</a></li>
+        <li><a href="/regions">Comunidades Autónomas</a></li>
     </ul>
 </nav>

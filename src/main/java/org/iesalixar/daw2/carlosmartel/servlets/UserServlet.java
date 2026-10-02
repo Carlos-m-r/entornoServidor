@@ -1,4 +1,4 @@
-package org.iesalixar.daw2.carlosmartel.servlets.servlets;
+package org.iesalixar.daw2.carlosmartel.servlets;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

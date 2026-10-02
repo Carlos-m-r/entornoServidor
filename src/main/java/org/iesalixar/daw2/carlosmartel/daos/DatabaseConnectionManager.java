@@ -1,4 +1,4 @@
-package org.iesalixar.daw2.carlosmartel.servlets.daos;
+package org.iesalixar.daw2.carlosmartel.daos;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import org.slf4j.Logger;
